@@ -22,6 +22,7 @@ public class Main {
 		System.out.printf("\nNúmero Complemetario: %d", comp);
 
 		System.out.println("¡Buena suerte en el sorteo!");
+		System.out.println("Cambio realizado desde GitHub.");
 
 	}
 }
