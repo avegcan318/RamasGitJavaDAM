@@ -6,6 +6,7 @@ import java.util.HashSet;
 
 public class Main {
 	public static void main(String[] args) {
+		System.out.println("Cambio realizado desde GitHub");
 		// Lotería Primitiva: 5 números principales (1..49) + 1 complementario
 		HashSet<Integer> bolas = new HashSet<>();
 		Random r = new Random();
